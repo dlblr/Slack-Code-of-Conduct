@@ -8,7 +8,7 @@ The **DeepLearningBangalore (DLBLR)** should be a safe place for everybody regar
 - age
 - religion
 
-As someone who is part of this Slack, you agree that:
+As someone who is part of this DLBLR Slack, you agree that:
 
 * We are collectively and individually committed to safety and inclusivity.
 * We have zero tolerance for abuse, harassment, or discrimination.
